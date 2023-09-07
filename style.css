@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(159, 158, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    text-align: center;
+}
+
+#p {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Manrope', sans-serif;
+    color: rgb(48, 135, 8);
+    font-size: large;
+    font-weight: bolder;
+    box-shadow: 0.1px 0.5px 0.8px 0.4px;
+    background-color: rgb(203, 210, 140);
+    border-radius: 3px;
+}
+button {
+    height: 45px;
+    border-radius: 8px;
+    background-color: tomato;
+}
